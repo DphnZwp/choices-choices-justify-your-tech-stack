@@ -4,13 +4,12 @@
 
 Verantwoord en presenteer je keuze voor een tech-stack.
 
+Het onderzoek doe ik in de [wiki](https://github.com/DphnZwp/choices-choices-justify-your-tech-stack/wiki).
+
 <!-- Haal bovenstaande tekst weg! -->
 
 
 <!-- Schrijf een mooie inleiding, beschrijf minstens de aanleiding - waarom doe je deze opdracht - en de tech-stack die je onderzoekt. Beschrijf daarna heel kort de stappen bij 2, 3, 4 en 5. -->
-Ik heb een onderzoek gedaan naar wat de voor- en nadelen van React zijn. 
-
-In mijn onderzoek ga ik uit van drie verschillende invalshoeken van de gebruikerservaring: User eXperience (UX), Developer eXperience (DX) en Content Management eXperience (CMX)
 
 <!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de gebruikservaring (UX) -->
 
