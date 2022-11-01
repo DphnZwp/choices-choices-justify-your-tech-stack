@@ -4,7 +4,7 @@
 
 Verantwoord en presenteer je keuze voor een tech-stack.
 
-Het onderzoek doe ik in de [wiki](https://github.com/DphnZwp/choices-choices-justify-your-tech-stack/wiki).
+Het onderzoek doe ik in de [Wiki](https://github.com/DphnZwp/choices-choices-justify-your-tech-stack/wiki).
 
 <!-- Haal bovenstaande tekst weg! -->
 
